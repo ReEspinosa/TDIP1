@@ -1,0 +1,29 @@
+/* Estilos secundarios */
+body {
+    background-color: #eef6ff;
+    font-family: Verdana, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    color: #004466;
+    text-align: center;
+}
+
+.contenido {
+    background: #cce6ff;
+    padding: 15px;
+    border: 1px solid #004466;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 8px;
+    background: #003344;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
